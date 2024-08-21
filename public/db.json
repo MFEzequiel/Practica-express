@@ -1,0 +1,85 @@
+{
+  "Search": [
+    {
+      "Id": "1",
+      "Title": "Camara",
+      "Paragraph": "paragraph",
+      "Poster": "http://localhost:3000/public/img/product-1.jpg",
+      "stocked": true,
+      "category": "Eletronicos",
+      "Price": "12"
+    },
+    {
+      "Id": "2",
+      "Title": "Pulober",
+      "Paragraph": "paragraph",
+      "Poster": "http://localhost:3000/public/img/product-2.jpg",
+      "stocked": true,
+      "category": "rop",
+      "Price": "2"
+    },
+    {
+      "Id": "3",
+      "Title": "Lampara",
+      "Paragraph": "paragraph",
+      "Poster": "http://localhost:3000/public/img/product-3.jpg",
+      "stocked": true,
+      "category": "Lampara",
+      "Price": "50"
+    },
+    {
+      "Id": "4",
+      "Title": "zapatillas",
+      "Paragraph": "paragraph",
+      "Poster": "http://localhost:3000/public/img/product-4.jpg",
+      "stocked": true,
+      "category": "zapatillas",
+      "Price": "200"
+    },
+    {
+      "Id": "5",
+      "Title": "Drone",
+      "Paragraph": "paragraph",
+      "Poster": "http://localhost:3000/public/img/product-5.jpg",
+      "stocked": true,
+      "category": "Eletronicos",
+      "Price": "150"
+    },
+    {
+      "Id": "6",
+      "Title": "Reloj digital",
+      "Paragraph": "paragraph",
+      "Poster": "http://localhost:3000/public/img/product-6.jpg",
+      "stocked": true,
+      "category": "rEletronicosop",
+      "Price": "62"
+    },
+    {
+      "Id": "7",
+      "Title": "title",
+      "Paragraph": "paragraph",
+      "Poster": "http://localhost:3000/public/img/product-7.jpg",
+      "stocked": true,
+      "category": "rop",
+      "Price": "102"
+    },
+    {
+      "Id": "8",
+      "Title": "shanpoo",
+      "Paragraph": "paragraph",
+      "Poster": "http://localhost:3000/public/img/product-8.jpg",
+      "stocked": true,
+      "category": "Cosmeticos",
+      "Price": "243"
+    },
+    {
+      "Id": "9",
+      "Title": "shanpoo",
+      "Paragraph": "paragraph",
+      "Poster": "http://localhost:3000/public/img/product-8.jpg",
+      "Stocked": true,
+      "Category": "Cosmeticos",
+      "Price": "99"
+    }
+  ]
+}
