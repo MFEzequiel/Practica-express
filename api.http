@@ -1,0 +1,18 @@
+###filtered category
+
+GET http://localhost:3000/product?category=Lampara 
+###
+
+POST http://localhost:3000/product
+Content-Type: application/json
+
+{
+    "Title": "shanpoo",
+    "Description": "Description",
+    "Poster": "http://localhost:3000/public/img/product-8.jpg",
+    "Stocked": true,
+    "Category": [
+    "Cosmeticos"
+    ],
+    "Price": "99"
+}

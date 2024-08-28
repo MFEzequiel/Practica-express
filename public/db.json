@@ -1,84 +1,102 @@
 {
-  "Search": [
+  "product": [
     {
-      "Id": "1",
+      "Id": "47814e96-e32b-4ca0-8e62-b2afee73b41a",
       "Title": "Camara",
-      "Paragraph": "paragraph",
+      "Description": "LogicTec comera",
       "Poster": "http://localhost:3000/public/img/product-1.jpg",
-      "stocked": true,
-      "category": "Eletronicos",
+      "Stocked": true,
+      "Category": [
+        "Eletronicos"
+      ],
       "Price": "12"
     },
     {
-      "Id": "2",
+      "Id": "73a31dc2-1d43-4d23-a425-f9eea1f0f5ec",
       "Title": "Pulober",
-      "Paragraph": "paragraph",
+      "Description": "Description",
       "Poster": "http://localhost:3000/public/img/product-2.jpg",
-      "stocked": true,
-      "category": "rop",
+      "Stocked": true,
+      "Category": [
+        "rop"
+      ],
       "Price": "2"
     },
     {
-      "Id": "3",
+      "Id": "1ac2b9fb-abdf-492d-8ae8-7ed0786162ae",
       "Title": "Lampara",
-      "Paragraph": "paragraph",
+      "Description": "Description",
       "Poster": "http://localhost:3000/public/img/product-3.jpg",
-      "stocked": true,
-      "category": "Lampara",
+      "Stocked": true,
+      "Category": [
+        "Lampara"
+      ],
       "Price": "50"
     },
     {
-      "Id": "4",
+      "Id": "67721ae5-1eb8-42ee-ac83-8c21b10b8f67",
       "Title": "zapatillas",
-      "Paragraph": "paragraph",
+      "Description": "Description",
       "Poster": "http://localhost:3000/public/img/product-4.jpg",
-      "stocked": true,
-      "category": "zapatillas",
+      "Stocked": true,
+      "Category": [
+        "zapatillas"
+      ],
       "Price": "200"
     },
     {
-      "Id": "5",
+      "Id": "a88c2944-66f8-4643-bbc7-c67d8769dd8c",
       "Title": "Drone",
-      "Paragraph": "paragraph",
+      "Description": "Description",
       "Poster": "http://localhost:3000/public/img/product-5.jpg",
-      "stocked": true,
-      "category": "Eletronicos",
+      "Stocked": true,
+      "Category": [
+        "Eletronicos"
+      ],
       "Price": "150"
     },
     {
-      "Id": "6",
+      "Id": "e8be4a8c-4a17-454d-80a3-c7bc07fa6c1b",
       "Title": "Reloj digital",
-      "Paragraph": "paragraph",
+      "Description": "Description",
       "Poster": "http://localhost:3000/public/img/product-6.jpg",
-      "stocked": true,
-      "category": "rEletronicosop",
+      "Stocked": true,
+      "Category": [
+        "Eletronicosop"
+      ],
       "Price": "62"
     },
     {
-      "Id": "7",
+      "Id": "c15e73a9-4687-4957-a490-5c5d2561e8ef",
       "Title": "title",
-      "Paragraph": "paragraph",
+      "Description": "Description",
       "Poster": "http://localhost:3000/public/img/product-7.jpg",
-      "stocked": true,
-      "category": "rop",
+      "Stocked": true,
+      "Category": [
+        "rop"
+      ],
       "Price": "102"
     },
     {
-      "Id": "8",
+      "Id": "7321a904-2ccb-48cb-ae09-baa43b44505d",
       "Title": "shanpoo",
-      "Paragraph": "paragraph",
+      "Description": "Description",
       "Poster": "http://localhost:3000/public/img/product-8.jpg",
-      "stocked": true,
-      "category": "Cosmeticos",
+      "Stocked": true,
+      "Category": [
+        "Cosmeticos"
+      ],
       "Price": "243"
     },
     {
-      "Id": "9",
+      "Id": "5b0e5ac0-5381-4989-831e-2bc71c902903",
       "Title": "shanpoo",
-      "Paragraph": "paragraph",
+      "Description": "Description",
       "Poster": "http://localhost:3000/public/img/product-8.jpg",
       "Stocked": true,
-      "Category": "Cosmeticos",
+      "Category": [
+        "Cosmeticos"
+      ],
       "Price": "99"
     }
   ]
