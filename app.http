@@ -1,0 +1,48 @@
+
+GET http://localhost:3000
+###
+
+GET http://localhost:3000/products
+###
+
+GET http://localhost:3000/products/1
+###
+
+POST http://localhost:3000/auth/signup
+Content-Type: application/json
+
+{
+    "sql": "passs",
+    "name": "Ezequiel",
+    "username": "Ezequiel",
+    "password": 1234
+}
+###
+POST http://localhost:3000/auth/login
+Content-Type: application/json
+
+{
+    "sql": "passs",   
+    "username": "Ezequiel",
+    "password": "1234"
+}
+###
+PUT http://localhost:3000/auth/8b860398-fc7e-46b7-b5ba-2c13418e6b2e
+Content-Type: application/json
+
+{
+    "username": "Marcelo",
+    "password": "1234"
+}
+###
+
+POST http://localhost:3002/users
+Content-Type: application/json
+
+{
+    "name": "Ezequiel",
+    "email": "example@gmail.com",
+    "password": "1234" 
+}
+
+DELETE http://localhost:3002/auth/8b860398-fc7e-46b7-b5ba-2c13418e6b2e
